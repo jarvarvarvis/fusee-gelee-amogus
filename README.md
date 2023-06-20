@@ -1,4 +1,4 @@
-# fusee-gelee-amogus-payload
+# fusee-gelee-amogus
 
 ```
                   .^^^^^^^^^^.
