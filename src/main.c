@@ -26,7 +26,7 @@ int main(void)
     display_enable_backlight(1);
 
     // Print the amogus
-    printk("%s\n", AMOGUS);
+    amogus_print();
 
     printk("\nPress the POWER button to turn off the console.\n");
     while (btn_read() != BTN_POWER) { sleep(10000); }
