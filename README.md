@@ -1,5 +1,37 @@
 # fusee-gelee-amogus-payload
 
+```
+                  .^^^^^^^^^^.
+             :~JPB&@@@@@@@@@@&G?^
+          .7P&@@@&&###B#BBBB#&@@&G!
+        .?#@@@#BGGGGGGGGGGGGGGGB&@@7
+        5@@@@########BBBGGGGGGGGB@@@7
+     .!P@@@@&######&@@@@@&&BGGGGGB@@&:
+    ^G@@B57!^:...:~!77?YB@@@BGGGGB&@@?
+   ~&@B?~.    ....^~~~~J5G@@#GGGGG#@@B^^:.
+  .G@&?~~~~~~~~~~~~~~!J55G@@#GGGGBB&@@@@&#BP?.
+  .#@@PYYJJJJJ?????JY5555#@@#GGGGBB#@@#B##&@@G.
+   7@@@#GPP55555555555PG#@@&GGGGGBB&@@#GGGG@@@7
+    ~B@@@@&##BGGGGGBB#@@@@&GGGGGGBB#@@&BBBB&@@7
+     J@@#B#&&&@@@@@@@@&&#BGGGGGGGBB#@@&BBBB#@@J
+     P@@BGGGGGGGBBBBBGGGGGGGGGGGBBB#@@&BBBB#@@P
+    :&@@#GGGGGGGGGGGGGGGGGGGGGGGBBB#@@&BBBB#@@G.
+    ^@@@#GGGGGGGGGGGGGGGGGGGGGGBBBB#@@&BBBB#@@#.
+    ^&@@#BGGGGGGGGGGGGGGGGGGGGBBBBB#@@&BBBB#@@&.
+    .B@@#BBGGGGGGGGGGGGGGGGGGBBBBBB#@@&BBBB#@@#.
+     ?@@&BBBBBBBBGGGGGBBBBBBBBBBBBB#@@&BBBB#@@5
+     ^&@@BBBBBBBBBBBBBBBBBBBBBBBBBB#@@#BBB#&@&^
+      G@@#BBB#########&&##BBBBBBBBB&@@&&&@@@&7
+      J@@&BBB##&@@@@&#&@@&BBBBBBBBB@@@BGGGP7:
+      :&@@#BBBBBB@@@7 7@@@BBBBBBBB#@@B.
+      .G@@#BBBBBB&@@^ !@@@BBBBBBBB#@@G
+       ~&@&#####&@@G~~?@@@#BBBBBBB&@@J
+   :~7JYG&&@@@@@@&#GBBB&@@@&#####&@@@GYJ7~:
+   ?GBBBBBBBBBBBBGGGGGGGB#&@@@@@@@&&#BBBBG?
+    :^!7?JJ55PPPGGGGGGGGGGGGGGGGP55YJ?7~^:
+             ...::::::::::::::...
+```
+
 Really dumb payload that printk's an amogus to the screen.
 
 Reference: https://github.com/rajkosto/romdump
@@ -24,7 +56,7 @@ pacman -S dkp-linux/devkitARM
 
 Assuming you have set up devkitPro and devkitARM on Linux like I have, you can source the devkit-env.sh script.
 
-It will set the environment variables `DEVKITPRO` (to the home of your devkitPro installation) and `DEVKITARM` 
+It will set the environment variables `DEVKITPRO` (to the home of your devkitPro installation) and `DEVKITARM`
 (to the home of your devkitARM installation):
 
 ```
